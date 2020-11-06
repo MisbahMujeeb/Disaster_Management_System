@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982147115518",
+    "firebase_url": "https://disastermanegementsystem123.firebaseio.com",
+    "project_id": "disastermanegementsystem123",
+    "storage_bucket": "disastermanegementsystem123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982147115518:android:951428cb32569ebe9ef8af",
+        "android_client_info": {
+          "package_name": "com.example.disastermanegementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982147115518-s9irr66igqflv18lei6d0qjslt9ihjoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxYAiXMBqfvdwICSuJH3-IwWoLZno48k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982147115518-s9irr66igqflv18lei6d0qjslt9ihjoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
